@@ -26,7 +26,7 @@ source venv/bin/activate - MacOs , Linux
 - Установите библиотеки 
 
 ```sh
-pip install aiohttp==3.8.4 && EdgeGPT==0.2.1 && di5cord-py-interactions && asyncio~=3.4.3
+pip install aiohttp==3.8.4 && EdgeGPT==0.2.1 && discord-py-interactions && asyncio~=3.4.3
 ```
 
 - Воткните токен своего бота в код (там сами найдёте , как 2 пальца)
